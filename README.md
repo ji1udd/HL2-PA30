@@ -30,7 +30,10 @@ There are some errata on my 1st design (v1). Schematic and pcb layout have been 
 
 ### PA30 Assembly
 - Trans and coil  
-    [_T1_](Doc/Assemble/T1_bifilar_12turns.jpg) , [_T2_](Doc/Assemble/T2_4turns_1turnx2.jpg) , [_L1_](Doc/Assemble/L1_1turn.jpg)
+    [_T1_](Doc/Assemble/T1_bifilar_12turns.jpg) , [_T2_](Doc/Assemble/T2_4turns_1turnx2.jpg) , [_L1_](Doc/Assemble/L1_1turn.jpg)  
+    T3, T4 : UEW 0.32mm  
+    LPF 160M, 80M : UEW 0.5mm  
+    LPF 40M, 30/20M, 17/15M, 12/10M : UEW 0.6mm
 - RD15HVF1 grounding  
     It's necessary to connect RD15HVF1 source tab to GND pattern of PCB  shortly. Otherwise amplifier will not work well. eg. lower power output... Copper tape is used. ( [_Photo_](Doc/Assemble/RD15Tab.jpg) )   
 - RD15HVF1 idle current  
