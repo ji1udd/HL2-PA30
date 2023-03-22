@@ -17,6 +17,8 @@
 - Phones and Mic Jacks are placed on the front panel, and CW key jack on the rear.
 
 ### Test result
+- [_Tx Power with comparison of RD15HVF1s and RD16HHF1s_](Doc/PowerMeter/RD15_RD16_comparison_on_PA30.jpg)  
+  Tx power is lower if RD16s is used instead of RD15s.
 - [_Thetis FWD Power Meter_](Doc/PowerMeter/Test_FwdMeter_40M_CW.jpg)
 - Spur at 30W [_160M_](Doc/Spur/Spur_160M_30W.jpg) , [_80M_](Doc/Spur/Spur_80M_30W.jpg) , [_40M_](Doc/Spur/Spur_40M_30W.jpg) , [_20M_](Doc/Spur/Spur_20M_30W.jpg) , [_15M_](Doc/Spur/Spur_15M_30W.jpg)
 - PureSignal at 30W [_ON_](Doc/PureSignal/IMD_40M_30W_PS-ON.jpg), [_OFF_](Doc/PureSignal/IMD_40M_30W_PS-OFF.jpg)
