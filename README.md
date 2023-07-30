@@ -29,6 +29,7 @@ There are some errata on my 1st design (v1). Schematic and pcb layout have been 
 - [_Schematic_](Schematic/PA30_v2r1_schematic.pdf)
 - [_BOM_](BOM/PA30_BOM.pdf)
 - [_Gerber_](Gerber/PA30_v2r1.zip)
+- [_PA30-HL2 board connection_](Schematic/PA30_HL2_connection.pdf)
 
 ### PA30 Assembly
 - Trans and coil  
